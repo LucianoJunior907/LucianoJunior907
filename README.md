@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Luciano Junior</h1>
 
 <p align="center">
-  🎯 Cientista de Dados Júnior | 📍 Jacutinga/MG | 🌐 Oportunidades Remotas
+  🎯 Cientista de Dados | 📍 Jacutinga/MG | 🌐 Oportunidades Remotas
 </p>
 
 <p align="center">
