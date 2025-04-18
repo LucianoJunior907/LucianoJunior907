@@ -23,22 +23,6 @@
 
 ---
 
-## 📁 Projetos em Destaque
-
-🚧 *Em breve vou atualizar este espaço com meus projetos aqui no GitHub!*  
-🎯 Estou organizando notebooks e dashboards do curso para publicar com boas práticas e visual atraente.
-
----
-
-## 🏢 Experiência Profissional
-
-**🛠️ Auxiliar de PCP - Telecam**  
-- 🔹 Automatização de planilhas no Excel  
-- 🔹 Geração de relatórios para apoio à produção  
-- 🔹 controle de dados operacionais
-
----
-
 ## 📜 Certificados Relevantes
 
 - Formação Cientista de Dados – Escola DNC  
