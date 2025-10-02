@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Luciano Junior</h1>
 
-![](https://komarev.com/ghpvc/?username=LucianoJunior907&abbreviated=true&base=)
+![](https://komarev.com/ghpvc/?username=LucianoJunior907&abbreviated=true)
 
 <p align="center">
   🎯 Cientista de Dados Júnior | 📍 São Paulo/SP | 🌐 Oportunidades Remotas, Hibridas, Presenciais
