@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Luciano Junior</h1>
 
-![](https://komarev.com/ghpvc/?username=LucianoJunior907&abbreviated=true)
-
 <p align="center">
   🎯 Cientista de Dados Júnior | 📍 São Paulo/SP | 🌐 Oportunidades Remotas, Hibridas, Presenciais
 </p>
@@ -9,6 +7,12 @@
 <p align="center">
   🎓 Formado em Ciência de Dados pela <a href="https://www.escoladnc.com.br/" target="_blank">Escola DNC</a>  
   <br>💡 Apaixonado por transformar dados em <strong>insights valiosos</strong>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mongodb,docker,mysql,sqlite,fastapi,git,notion,sklearn,vscode,windows" width="500" height="500" />
+  </a>
 </p>
 
 ---
@@ -58,3 +62,5 @@
 <p align="center">
   🌟 Fique à vontade para explorar meus repositórios e entrar em contato!
 </p>
+
+![](https://komarev.com/ghpvc/?username=LucianoJunior907&abbreviated=true).
